@@ -31,7 +31,8 @@ The primary goals of this analysis are:
    - `pandas` for data manipulation  
    - `numpy` for numerical analysis  
    - `matplotlib` for visualization
-📊 Key Insights
+
+## 📊 Key Insights
 
 Global Trend: COVID-19 cases rose exponentially in early 2020 and peaked again in late 2020–early 2021, reflecting major global waves of infection.
 
