@@ -54,7 +54,9 @@ Monthly data revealed synchronized global peaks and later stabilization.
 
 Demonstrates how Python-based data analysis reveals real-world health insights.
 
-##💡 Usefulness of This Analysis
+
+
+## 💡 Usefulness of This Analysis
 
 Helps understand the global spread and progression of COVID-19 through real data.
 
