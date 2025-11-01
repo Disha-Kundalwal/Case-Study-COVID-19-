@@ -30,4 +30,25 @@ The primary goals of this analysis are:
 3. **Skill Development** – Work with real-world datasets using:
    - `pandas` for data manipulation  
    - `numpy` for numerical analysis  
-   - `matplotlib` for visualization  
+   - `matplotlib` for visualization
+📊 Key Insights
+
+Global Trend: COVID-19 cases rose exponentially in early 2020 and peaked again in late 2020–early 2021, reflecting major global waves of infection.
+
+Regional Impact: The United States, India, and Brazil recorded the highest cumulative confirmed cases and deaths, indicating prolonged and widespread outbreaks.
+
+Mortality Rates: Italy, the UK, and Brazil exhibited the highest average death rates during 2020, suggesting early healthcare strain and higher disease severity.
+
+Recovery Trends: Countries like Australia and Canada maintained strong recovery rates, with Australia showing more efficient case management and resolution.
+
+Daily Surges: Italy faced the sharpest early surge in daily new cases (March 2020), while Germany’s peaks appeared later but were smaller due to better containment.
+
+Provincial Variation: Within Canada, death rates varied across provinces, with Quebec and Ontario showing higher mortality due to population density and outbreak clusters.
+
+US-Specific Insights: The United States saw two major mortality waves — mid-2020 and early 2021 — followed by improving recovery ratios as vaccination increased.
+
+Global Recovery vs Deaths: Across countries such as South Africa, recoveries consistently outpaced deaths, highlighting improved medical response and adaptation over time.
+
+Monthly Trends: Aggregated monthly data revealed synchronized global peaks in infection and death rates around late 2020, followed by gradual stabilization in 2021.
+
+Technical Insight: The project demonstrates the value of Python-based data cleaning, transformation, and visualization in uncovering real-world health insights from large-scale datasets. 
